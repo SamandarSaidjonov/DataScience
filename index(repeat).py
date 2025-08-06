@@ -113,14 +113,3 @@ print("12-masala javobi:", arr9[1:3, 1:3])
 asosiy_diagonal = arr9.diagonal()
 yordamchi_diagonal = np.fliplr(arr9).diagonal()
 print("13-masala javobi: Asosiy diagonal:", asosiy_diagonal, "Yordamchi diagonal:", yordamchi_diagonal)
-
-
-
-
-
-
-
-
-
-
-
